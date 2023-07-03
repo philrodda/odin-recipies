@@ -1,0 +1,32 @@
+h1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+ul {
+    color: darkblue;
+    text-align: center;
+    list-style: none;
+    border-style: solid;
+    margin: 100px;
+}
+
+* {
+    background-color: aquamarine;
+}
+
+
+.Ingredients {
+    text-align: left;
+}
+
+.Steps {
+    text-align: left;
+    border-style: dashed;
+    border-color: darkblue;
+    margin-left: 200px;
+    margin-right: 200px;
+}
